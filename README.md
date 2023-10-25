@@ -1,2 +1,2 @@
 # WinFormApp_RecapDemo
-Creating a checkerboard using WindowsForm
+Checkerboard with using WindowsForm
